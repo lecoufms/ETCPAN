@@ -1,0 +1,43 @@
+{"dia": 5}
+{"periodo": "Manha"}
+{"horario": "8:00 h", "evento": "Credenciamento, entrega de Kits, confirmacao de inscricoes"}
+{"horario": "9:00 h","evento": "Cerimonia de abertura do evento"}
+{"horario": "9:30 h", "evento": "Palestra: Nascidos para empreender", "descricao": "Palestra com Georgia Angelica Velasquez Ferraz","Local":"Salomão Baruki"}
+{"horario": "11:00 h", "evento": "Palestra: Gestion de plataforma virtual Moodle para La enseñanza en la educacion superior.", "descricao": "Palestra com o Prof. Me. Pablo Tordoya - UNITEPC","Local":"Salomão Baruki"}
+{"periodo": "Tarde", "horario": "14:00 as 18:00h"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 1: Topicos especiais em aprendizado de maquina.", "descricao": "Oficina com a Profa. Daiane Sampaio Santos. - IFMS", "Local":"Unidade I F-01"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 2: Como subverter sites e clonar credenciais de acesso, uma abordagem pratica.", "descricao": "Oficina ministrada pelo Prof. Me. Brivaldo Alves da Silva Junior - UFMS FACOM","Local":"Unidade I F-10"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 3: Base de dados Senior, Semi-senior, com la herramienta de Oracle.", "descricao": "Curso ministrado pelo Prof. Me. Pablo R. Tordoya - UNITEPC Prof. Jose Emil Ruelas - UNITEPC","Local":"Unidade II Sala 17"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 4: A Inovacao e Tecnologia nas Micro e Pequenas Empresas. (Parte 1).", "descricao": "Curso ministrado pela Profa. Dr. Roosiley dos Santos Souza - UFMS CPAN","Local":"Unidade I H-108"}
+{"periodo": "Noite", "horario": "18:30 as 22:00h"}
+{"horario": "18:30 as 22:00 h", "evento": "Apresentacao de artigos cientificos.", "descricao": "Coordenacao de mesa Prof. Me. Phelipe Araujo Fabres"}
+{"horario": "18:30 as 22:00 h", "evento": "Apresentacao de pôsteres.", "descricao": "Coordenacao Prof. Me. Anderson P. das Neves"}
+{"dia": 6}
+{"periodo": "Manha"}
+{"horario": "8:00 h", "evento": "Palestra: Controle de danos! Nao estamos nada seguros.","descricao":"Prof. Me. Brivaldo Alves da Silva Junior - UFMS FACOM","Local":"Salomão Baruki"}
+{"horario": "9:30 h", "evento": "Palestra: Empreendedorismo Digital - Como Fazer Acontecer?", "descricao": "Prof. Luis Eduardo Borges Schunke - SENAC MS","Local":"Salomão Baruki"}
+{"horario": "11:00 h", "evento": "Palestra: Interacao com jogos digitais","descricao":"Prof. Me. Leandro Soares Guedes - IFMS","Local":"Salomão Baruki"}
+{"periodo": "Tarde", "horario": "14:00 as 18:00h"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 5: Bootstrap: Uma ferramenta para Front-End de Sistemas para WEB.", "descricao": " Prof. Luiz Sergio Velasques Urquiza Junior - IFMS","Local":"Unidade I F-10"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 6: Facebook Marketing.", "descricao": "Prof. Antonio Ávila da Silva Junior. - SENAC MS","Local":"Unidade I F-01"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 4: A Inovacao e Tecnologia nas Micro e Pequenas Empresas. (Parte 2).", "descricao": "Profa. Dr. Roosiley dos Santos Souza - UFMS CPAN","Local":"Unidade I H-108"}
+{"horario": "14:00 as 18:00 h", "evento": "Banca TCC I e II do Curso de Sistemas de Informacao/CPAN.", "descricao": "Apresentacao de prospostas e resultados das pesquisas com coordenacao de mesa Prof. Me. Anderson P. das Neves"}
+{"periodo": "Noite", "horario": "18:30 as 22:00h"}
+{"horario": "18:30", "evento": "Palestra: Jogos – Carreira e Mercado","descricao":"Erick Gomes da Silva","Local":"Salomão Baruki"}
+{"dia": 7}
+{"periodo": "Manha"}
+{"horario": "8:00 h", "evento": "Palestra: Mudanças educacionais e a robótica pedagógica: reflexões e ações.", "descricao": "Palestra ministrada pelo Prof. Dr. Anderson Corrêa de Lima","Local":"Salomão Baruki"}
+{"horario": "9:30 h", "evento": "Palestra:  O direito e o uso da tecnologia.", "descricao": "Palestra ministrada por Marcos Brito - Promotor de justiça do Ministerio Publico do MS","Local":"Salomão Baruki"}
+{"horario": "11:00 h", "evento": "Palestra: O que e LEAN? Elimine desperdicio e entregue continuamente.", "descricao": "Charles Felipe Oliveira Viegas - Consultor de TI Adaylong Borges dos Santos - Co-fundador da Go Talent e da Metriccs","Local":"Salomão Baruki"}
+{"periodo": "Tarde", "horario": "14:00 as 18:00h"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 7: Lot com arduino.", "descricao": "Curso ministrado pelo Prof. Me. Jiyan Yari - IFMS/CG","Local":"Unidade I F-10"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 8: Scratch e possibilidades em robótica.","descricao": "Curso ministrado pelo Prof. Dr. Anderson Corrêa de Lima - UFMS CPPP","Local":"Unidade I F-01"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 9: Curso Introdutorio de App. Inventor.", "descricao": "Curso ministrado pela Profa. Me. Graziela Santos de Araujo - UFMS FACOM e pelo Academ. Gabriel Santana de Menezes - UFMS FACOM","Local":"Unidade II Sala 17"}
+{"periodo": "Noite", "horario": "18:30 as 22:00h"}
+{"horario": "18:30 as 22:00 h", "evento":"Banca TCC II do Curso de Sistemas de Informacao/CPAN.", "descricao":"Apresentacao de prospostas e resultados das pesquisas com coordenacao de mesa Prof. Me. Luciano Edipo P. da Silva"}
+{"dia": 8}
+{"periodo": "Manha"}
+{"horario": "9:30 h", "evento": "Palestra: Inovacao em tempos de Startups","descricao": "Leandra Costa,  Gestora do Living LAB MS e empresaria","Local":"Salomão Baruki"}
+{"horario": "11:00 h","evento": "Palestra: A necessaria interacao Universidade, Empresas e Governo: o caso UFMS.","descricao": "Palestra com Jardel Matos - Coordenador de empreendedorismo e inovacao - UFMS","Local":"Salomão Baruki"}
+{"periodo": "Tarde", "horario": "14:00 as 18:00h"}
+{"horario": "14:00 as 18:00 h", "evento": "Oficina 10: Design thinking.", "descricao": " oficina com Prof. Me. Leandro Soares Guedes- IFMS","Local":"Salomão Baruki"}

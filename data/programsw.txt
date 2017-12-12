@@ -1,0 +1,37 @@
+{"dia": "8"}
+{"periodo": "Noite"}
+{"horario": "18:30 h", "evento": "Credenciamento", 'descricao': "Chegada ao local e inscrição"}
+{"horario": "19:00 h", "evento": "Jantar com networking", 'descricao':"Se alimentar e começar a conhecer os participantes, organizadores e mentores"}
+{"horario": "19:20 h", "evento": "Apresentação do evento", 'descricao': "Da agenda para o final de semana, quem são os mentores e equipe organizadora"}
+{"horario": "19:30 h", "evento": "Palestra 1"}
+{"horario": "20:00 h", "evento": "Palestra 2"}
+{"horario": "20:30 h", "evento": "Toró de Ideias", 'descricao': "Cada participante poderá apresentar sua ideia de negócios para todo o público"}
+{"horario": "21:00 h", "evento": "Votação", 'descricao': "Participantes escolherão as melhores ideias para serem executadas durante o SW Corumbá"}
+{"horario": "21:15 h", "evento": "Formação de times", 'descricao': "Cada participante escolhe de qual time participará e os membros do time começam a se conhecer"}
+{"horario": "22:00 h", "evento": "Começam os trabalhos", 'descricao': "Formalize o time e comecem a discutir suas habilidades. Seja sincero sobre o que sabe fazer de melhor e o que pode contribuir com o seu time. Determinem tarefas e mãos à obra. Vocês poderão ficar na UFMS/CPAN o quanto quiser, o local ficará disponível"}
+{"dia": "9"}
+{"periodo": "Manha"}
+{"horario": "9:00 h", "evento": "Café da manhã", 'descricao': "Chegada, café da manhã e retorno aos trabalhos"}
+{"horario": "9:30 h", "evento": "Começam os trabalhos", 'descricao': "Organizem suas tarefas e local de trabalho para o final de semana"}
+{"periodo": "Tarde"}
+{"horario": "12:00 h", "evento":"Almoço"}
+{"horario": "13:00 h", "evento": "Check-In", 'descricao': "Mentores disponíveis para ajudar seu time. Solicitem apoio e avaliem o andamento do projeto"}
+{"horario": "14:00 h", "evento": "Reuniões com mentores", 'descricao':"Mentores apoiam os times, um a um. Eles estão a sua disposição"}
+{"periodo": "Noite"}
+{"horario": "18:30 h", "evento": "Jantar"}
+{"horario": "19:30 h", "evento": "Check-In", 'descricao': "Acha que para após a janta? Continue seu trabalho e continue pedindo apoio dos mentores"}
+{"horario": "22:00 h", "evento": "Wrap-Up", 'descricao':"Encerramento do apoio dos mentores para o dia. Os times poderão continuar trabalhando pela madrugada adentro, se desejarem"}
+{"dia": "10"}
+{"periodo": "Manha"}
+{"horario": "9:00 h", "evento": "Café da manhã", 'descricao': "Chegada e café da manhã para dar forças ao novo dia"}
+{"horario": "10:00 h", "evento":  "Check-In", 'descricao': "Chegada dos mentores. Oportunidade de fazer perguntas, tirar dúvidas, solicitar apoio. O tempo de apoio dos mentores está acabando, aproveite"}
+{"periodo": "Tarde"}
+{"horario": "12:00", "evento": "Almoço"}
+{"horario": "12:30 h", "evento": "Reunião com mentores", 'descricao': "Momento final de apoio dos mentores sobre o Modelo de negócios do time. Aproveitem"}
+{"horario": "15:00 h", "evento": "Preparação para apresentação", 'descricao': "Últimas horas de trabalho. Foco em terminar os protótipos e soluções, fazer a apresentação da startup do time e aperfeiçoar a apresentação"}
+{"horario": "16:00 h", "evento": "Lanche"}
+{"horario": "17:00 h", "evento": "Apresentações finais", 'descricao': "Onde cada time fará seu pitch e venderá sua empresa"}
+{"periodo": "Noite"}
+{"horario": "19:30", "evento":"Avaliação e Premiação", 'descricao': "Os jurados escolherão os melhores projetos e serão eleitos os vencedores. Será feita a premiação"}
+{"horario": "20:30", "evento":"Encerramento", 'descricao': "Fechamento do evento, foto oficial, discussões e networking finais e despedidas"}
+{"horario": "21:00", "evento":"Vamos embora!", 'descricao':"Vamos embora, Ou pro bar. Ou pro aeroporto. Ou dormir. Ou dominar o mundo. Só vamos!"}

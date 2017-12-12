@@ -1,0 +1,110 @@
+#:import utils kivy.utils
+#:import MyImage image
+#:import MyLabel label
+<MainScreen>:
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: 'images/background.jpg'
+    FloatLayout:
+        Image:
+            source: 'images/logo.png'
+            size_hint: (.6,.62)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .2,'y':.52 }
+            allow_stretch: True
+        MyImage:
+            id: 'programacao'
+            source: 'images/programbtn.png'
+            size_hint: (.4,None)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .3,'y':.52}
+            allow_stretch: True
+            on_press: app.root.current = 'programacao'
+            on_release: app.NextScreen('main')
+        MyImage:
+            source: 'images/notify.png'
+            size_hint: (.6,None)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .2,'y':.32}
+            allow_stretch: True
+            on_press: root.NotifyPopup()
+        MyImage:
+            source: 'images/sw.png'
+            size_hint: (.3,None)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .725,'y':.01 }
+            allow_stretch: True
+            on_press: app.root.current = 'startup' 
+            on_release: app.NextScreen('')
+
+<ProgramScreen>:
+    canvas.before:
+        Color:
+            rgb: utils.get_color_from_hex('#02a28f')
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    Image:
+        source: 'images/program.png'
+        size_hint: (.6,.67)
+        center_x: self.parent.center_x
+        pos_hint: {'x': .2,'y':.6}
+        allow_stretch: True
+    Image:
+        source: 'images/bg.png'
+        size_hint: (.14,.14)
+        center_x: self.parent.center_x
+        pos_hint: {'x': .03,'y':.87}
+        allow_stretch: True
+
+<MainScreenSW>:
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: 'images/backgroundsw.jpg'
+    FloatLayout:
+        Image:
+            source: 'images/logo3.png'
+            size_hint: (.6,.62)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .2,'y':.52 }
+            allow_stretch: True
+        MyImage:
+            id: 'programacao'
+            source: 'images/program2.png'
+            size_hint: (.4,None)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .3,'y':.52}
+            allow_stretch: True
+            on_press: app.root.current = 'programacaosw'
+            on_release: app.NextScreen('startup')
+        MyImage:
+            source: 'images/notify2.png'
+            size_hint: (.6,None)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .2,'y':.32}
+            allow_stretch: True
+            on_press: root.NotifyPopup()
+        MyImage:
+            source: 'images/etcpan.png'
+            size_hint: (.3,None)
+            center_x: self.parent.center_x
+            pos_hint: {'x': .725,'y':.01 }
+            allow_stretch: True
+            on_press: app.root.current = 'main' 
+            on_release: app.NextScreen('')
+<ProgramScreensw>:
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: 'images/backgroundsw.jpg'
+    Image:
+        source: 'images/programsw.png'
+        size_hint: (.6,.67)
+        center_x: self.parent.center_x
+        pos_hint: {'x': .2,'y':.6}
+        allow_stretch: True
